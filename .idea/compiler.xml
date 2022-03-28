@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="EnlaceTardio" />
+        <module name="Ejemplo1" />
+        <module name="EjemploClase3_Herencia" />
+        <module name="Ejemplo2Constantes" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Ejemplo1" target="1.5" />
+      <module name="Ejemplo2Constantes" target="1.5" />
+      <module name="EjemploClase3_Herencia" target="1.5" />
+      <module name="EjemploObjetos" target="1.5" />
+      <module name="EnlaceTardio" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
